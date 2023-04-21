@@ -1,0 +1,31 @@
+{
+  "background_color": "#ffffff",
+  "description": "A app for watching animes in tamil",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SepToonz",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SepToonz",
+  "start_url": "/",
+  "theme_color": "#8442fc",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://www.anibeez.ga/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDS_4YR8VufS1dCi0FmKN5yUhJqmkOLGVVb8lFRIMT3pCsiKTX8C9Nme9VSNht2Q47LCdVcPs-xULB_wN0mjBdxX_QovlEeX6wuGwFUIpfeqnhPvYYfA5Z78IZC_Mme_-bUcbU7EKKfnf6xUMqnaX7_QscD3H3qzZNFM3L6jzkWD0R31jxmiYg",
+      "type": "image/jpeg",
+      "sizes": "387x512"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "en"
+}
